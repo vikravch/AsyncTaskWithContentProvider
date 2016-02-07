@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsyncFinish</string>
+    <string name="some_text">Some Text</string>
+    <string name="load_list">Load List</string>
+    <string name="show_image">show image</string>
+    <string name="fill_bf">fillBD</string>
+
+    <string name="dialog_title">Loading</string>
+    <string name="dialog_message">Please wait</string>
+</resources>
